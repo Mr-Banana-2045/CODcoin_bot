@@ -1,4 +1,5 @@
-![coin(1)(1)(1)](https://github.com/Mr-Banana-2045/CODcoin_bot/assets/109140672/cb704605-c754-4f55-8f93-461492bbe71f)
+![Slide1](https://github.com/Mr-Banana-2045/CODcoin_bot/assets/109140672/b2164d61-76c4-4db5-a809-7c4f311f1b37)
+
 ## CODcoing
 Click to get code
 
